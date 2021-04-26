@@ -1,1 +1,1 @@
-# Horiseon
+Webpage beta for a company called Horiseon Marketing Agency, featuring a brief overview of what Horiseon can do for its customers.
