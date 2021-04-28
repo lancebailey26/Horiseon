@@ -23,8 +23,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
-nav  {
+/* most of the css elements for this application could be grouped together under the pertinent sections for ease of reading */
+nav  {  
     margin-right: 20px;
     margin-top: 20px;
     padding-bottom: 10px;
